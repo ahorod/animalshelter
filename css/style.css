@@ -10,6 +10,26 @@ img {
   display:block;
   margin: auto;
   max-width: 100%;
-  height: 250px;
-
+  max-height: 50%;
+  padding: 10px;
+}
+.cat {
+  background-color: gray;
+}
+.cat p {
+  text-align:justify;
+  font-family: serif;;
+}
+.dog {
+  background-color: lightblue;
+}
+.dog p {
+  font-family: sans-serif;
+}
+h2 {
+  text-align: center;
+  font-family: courier;
+}
+h1 {
+  text-align: center;
 }
